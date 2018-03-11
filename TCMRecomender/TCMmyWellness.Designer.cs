@@ -343,7 +343,6 @@
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel4.Controls.Add(this.smokeLabel, 0, 0);
             this.tableLayoutPanel4.Controls.Add(this.stressConditionComboBox, 1, 6);
-            this.tableLayoutPanel4.Controls.Add(this.smokeDrinkComboBox, 1, 0);
             this.tableLayoutPanel4.Controls.Add(this.stressLabel, 0, 6);
             this.tableLayoutPanel4.Controls.Add(this.sleepConditionLabel, 0, 1);
             this.tableLayoutPanel4.Controls.Add(this.heartConditionsComboBox, 1, 5);
@@ -355,6 +354,7 @@
             this.tableLayoutPanel4.Controls.Add(this.hypertensionConditionLabel, 0, 4);
             this.tableLayoutPanel4.Controls.Add(this.diabetesConditionLabel, 0, 3);
             this.tableLayoutPanel4.Controls.Add(this.diabetesConditionComboBox, 1, 3);
+            this.tableLayoutPanel4.Controls.Add(this.smokeDrinkComboBox, 1, 0);
             this.tableLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel4.Location = new System.Drawing.Point(4, 24);
             this.tableLayoutPanel4.Margin = new System.Windows.Forms.Padding(4);
